@@ -137,7 +137,7 @@
           "type": "text",
           "style": "plain",
           "foreground": "#7a7a7a",
-          "template": " ~#@❯ "
+          "template": " .‧🚀˖˚⋆｡ "
         }
       ],
       "newline": true
@@ -180,6 +180,6 @@
   "transient_prompt": {
     "foreground": "#7a7a7a",
     "background": "transparent",
-    "template": " ~#@❯ "
+    "template": " .‧🚀˖˚⋆｡ "
   }
 }
